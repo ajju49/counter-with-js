@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('counter.jpg');
+    background-position: center;
+    background-size: cover;
+    color: #73e600;
+    text-transform: uppercase;
+}
+.counter-box{
+    border: 4px solid  #264d00;
+    padding: 9% ;
+    margin: auto;
+    margin-top: 2%;
+}
+.title{
+    letter-spacing: 5px;
+    text-align: center;
+}
+.counter{
+    font-size: 6rem;
+    text-align: center;
+}
+.btn{
+    background:#264d00;
+    margin: 20px;
+}
